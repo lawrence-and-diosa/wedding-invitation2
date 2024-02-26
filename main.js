@@ -34,6 +34,7 @@ LGT(scene,.5,2,false);
 TABLE(scene,24,matv, .25);
 MUSIC();
 TEXT();
+MAP();FB();
 
 if(window.innerWidth<window.innerHeight){
 arr=[1,2,3,4,5,6,7];
